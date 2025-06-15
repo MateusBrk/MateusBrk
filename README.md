@@ -1,6 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Mateus</h1>
 <h3 align="justify">Oi, eu sou o Mateus, Desenvolvedor Full Stack com paixão pelo universo da tecnologia. Atualmente, estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas e resido na Zona Leste de São Paulo – SP e tenho 20 anos. Minha trajetória profissional começou no desenvolvimento Back-end, trabalhando com Python e Java. Posteriormente, decidi mergulhar no Front-End, onde passei a dominar tecnologias como HTML, CSS, JavaScript e frameworks modernos. Sempre em busca de novos desafios e aprendizados que impulsionem meu técnico, crescimento e humano.</h3>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3 align="left">Tecnologias que uso:</h3>
 <div align="left">
@@ -56,6 +57,13 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </div>
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
