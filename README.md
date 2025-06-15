@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Mateus</h1>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 ### Sobre Mim
-<h3 align="left">Oi, eu sou o Mateus, Desenvolvedor Full Stack com paixão pelo universo da tecnologia. Atualmente, estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas e resido na Zona Leste de São Paulo – SP e tenho 20 anos. Minha trajetória profissional começou no desenvolvimento Back-end, trabalhando com Python e Java. Posteriormente, decidi mergulhar no Front-End, onde passei a dominar tecnologias como HTML, CSS, JavaScript e frameworks modernos. Sempre em busca de novos desafios e aprendizados que impulsionem meu técnico, crescimento e humano.</h3>
+<h3 align="justify">Oi, eu sou o Mateus, Desenvolvedor Full Stack com paixão pelo universo da tecnologia. Atualmente, estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas e resido na Zona Leste de São Paulo – SP e tenho 20 anos. Minha trajetória profissional começou no desenvolvimento Back-end, trabalhando com Python e Java. Posteriormente, decidi mergulhar no Front-End, onde passei a dominar tecnologias como HTML, CSS, JavaScript e frameworks modernos. Sempre em busca de novos desafios e aprendizados que impulsionem meu técnico, crescimento e humano.</h3>
 
 
 ### Tecnologias que Uso
