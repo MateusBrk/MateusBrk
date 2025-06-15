@@ -2,11 +2,11 @@
 <h3 align="justify">Oi, eu sou o Mateus, Desenvolvedor Full Stack com paixão pelo universo da tecnologia. Atualmente, estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas e resido na Zona Leste de São Paulo – SP e tenho 20 anos. Minha trajetória profissional começou no desenvolvimento Back-end, trabalhando com Python e Java. Posteriormente, decidi mergulhar no Front-End, onde passei a dominar tecnologias como HTML, CSS, JavaScript e frameworks modernos. Sempre em busca de novos desafios e aprendizados que impulsionem meu técnico, crescimento e humano.</h3>
 
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left">
+<h3 align="left">Tecnologias que uso:</h3>
+<div align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -55,7 +55,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
